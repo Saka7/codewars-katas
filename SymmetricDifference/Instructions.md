@@ -1,6 +1,6 @@
 In mathematics, the **symmetric difference** of two sets is the set of elements which are in either of the sets and not in their intersection.
 
-![Symmetric Difference](https://github.com/Saka7/codewars-katas/blob/master/SymmetricDifference/Symmetric-Difference.svg)
+![Symmetric Difference](https://github.com/Saka7/codewars-katas/blob/master/SymmetricDifference/Symmetric-Difference.png)
 > Symmetric Difference of a and b (a△b) marked in gray
 
 Your taks is to implement method ``` getSymmetricDifference ``` which takes two sets of unique integer values and returns symmetric difference of these sets.

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 300 300.00001"
+   height="300"
+   width="300">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath4150"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="68.571426"
+         cy="935.2193"
+         cx="255"
+         id="circle4152"
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-752.36216)"
+     id="layer1">
+    <rect
+       ry="10.843"
+       rx="11.5725"
+       y="752.36218"
+       x="0"
+       height="300"
+       width="300"
+       id="rect3336"
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-60.714287,58.928597)"
+       id="g4162">
+      <circle
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4138"
+         cx="168.57143"
+         cy="843.07642"
+         r="68.571426" />
+      <circle
+         r="68.571426"
+         cy="843.79071"
+         cx="252.85715"
+         id="circle4140"
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="68.571426"
+         cy="934.505"
+         cx="170.71428"
+         id="circle4146"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         clip-path="url(#clipPath4150)"
+         transform="translate(-1.8110956,-90.966824)" />
+    </g>
+    <text
+       id="text4167"
+       y="908.73444"
+       x="78.25531"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff"
+         y="908.73444"
+         x="78.25531"
+         id="tspan4169">a</tspan></text>
+    <text
+       id="text4171"
+       y="909.61584"
+       x="200.57953"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff"
+         y="909.61584"
+         x="200.57953"
+         id="tspan4173">b</tspan></text>
+    <text
+       id="text4175"
+       y="795.28229"
+       x="258.57455"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="795.28229"
+         x="258.57455"
+         id="tspan4177">U</tspan></text>
+  </g>
+</svg>

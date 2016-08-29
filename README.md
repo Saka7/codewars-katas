@@ -18,3 +18,6 @@
  + [Fibonacci Numbers (clojure)](https://www.codewars.com/kumite/571b302eb29485626b0011e8?sel=571b302eb29485626b0011e8)
  + [Factorial (clojure)](https://www.codewars.com/kumite/571b37e07beb0aaa4700046f?sel=571b37e07beb0aaa4700046f)
  + [Loop Types (bash)](https://www.codewars.com/kumite/57405a84d67e8759d5000f5c?sel=57405a84d67e8759d5000f5c)
+ + [Kotlin Data Classes (kotlin)](https://www.codewars.com/kumite/57b951398dcd97307a0000e8?sel=57b951398dcd97307a0000e8)
+ + [Most Frequent Words in a Book(clojure)](https://www.codewars.com/kumite/57baf722f30299bf5200019d?sel=57baf722f30299bf5200019d)
+

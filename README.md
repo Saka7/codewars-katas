@@ -1,4 +1,4 @@
-![SAKA](https://www.codewars.com/users/SAKA/badges/large)
+![SAKA](https://www.codewars.com/users/Saka7/badges/large)
 
 # CODEWARS-KATAS
 ![codewars-katas](codewars.png)

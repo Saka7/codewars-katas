@@ -1,0 +1,1 @@
+Object.keys(this).filter(k => /boom\d+/.test(k)).forEach(k => Bomb.CutTheWire(this[k]));

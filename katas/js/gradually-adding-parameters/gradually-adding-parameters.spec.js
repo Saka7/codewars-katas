@@ -1,0 +1,1 @@
+Test.assertEquals(add(100,200,300),1400);
